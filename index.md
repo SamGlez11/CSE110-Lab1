@@ -76,3 +76,5 @@ Link to README.md [README.md](README.md)
 - [ ] Internship :(
 - [ ] Job :(
 - [x] Homeless Shelter
+
+![Thumbs Up Emoji](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bc8miBtDfMbP0ATOTW6mLwmL68VLdn9XyA&s)
