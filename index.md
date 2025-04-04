@@ -1,4 +1,12 @@
-#Hi I'm Sam! Welcome to my page
+'''java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+'''
+
+#I'm Sam! Welcome to my page
 
 ## Who am I?
 
@@ -39,7 +47,11 @@ You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)
 ## Where to find me
 
 [LinkedIn]**(https://www.linkedin.com/in/samuel-gonzalez-a7a91a34a/)**
+
 [GitHub]**(https://github.com/SamGlez11)**
+
 [Instagram]**(https://www.instagram.com/samuel._.gonzalezz?igsh=MzRlODBiNWFlZA==)**
 
 ### Thank you for checking this out :)
+
+> “Computers are good at following instructions, but not at reading your mind.”
