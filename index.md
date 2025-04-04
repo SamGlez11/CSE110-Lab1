@@ -53,7 +53,8 @@ You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)
 
 [Instagram]**(https://www.instagram.com/samuel._.gonzalezz?igsh=MzRlODBiNWFlZA==)**
 
-### Thank you for checking this out :)
+### Thank you for checking this out!
+### Here's a CS quote as a reward :)
 
 > “Computers are good at following instructions, but not at reading your mind.”
 
@@ -72,6 +73,6 @@ Link to README.md [README.md](README.md)
 - [x] Ordered and Unordered Lists
 - [x] Task lists
 - [x] Complete Web Page requirements
-- [] Internship :(
-- [] Job :(
+- [ ] Internship :(
+- [ ] Job :(
 - [x] Homeless Shelter
