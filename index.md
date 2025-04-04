@@ -7,7 +7,7 @@ public class HelloWorld {
 }
 ```
 
-# I'm Sam! Welcome to my page
+# Hi I'm Sam! Welcome to my page
 
 ## Who am I?
 
@@ -17,9 +17,9 @@ I am an aspiring second-year Computer Science student at UC San Diego, passionat
 
 ## My Skills
 
-    -   **Languages**: Java *(personal favorite)*, C, HTML, Assembly, C++, and Python
-    -   **Tools**: Git, VSCode, IDLE, PYCharm, GDB, Vim, Valgrind
-    -   **Statistics**: HYpothesis testing, COnfidence Intervals
+- **Languages:** Java *(personal favorite)*, C, HTML, Assembly, C++, and Python  
+- **Tools:** Git, VSCode, IDLE, PyCharm, GDB, Vim, Valgrind  
+- **Statistics:** Hypothesis Testing, Confidence Intervals
 
 ## Latest Project
 
@@ -29,21 +29,21 @@ You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)
 
 ## Smaller Projects
 
-    -   HTML: Multi-page website on how to solve a Rubik's cube and more information about the Rubik's cube
+1. HTML: Multi-page website on how to solve a Rubik's cube and more information about the Rubik's cube
 
-    -   JAVA: Utilized code.org’s theatre to create a 43-second-long comedic skit
+2. JAVA: Utilized code.org’s theatre to create a 43-second-long comedic skit
 
-    -   JAVA: Store management project to process shoe orders and receipts
+3. JAVA: Store management project to process shoe orders and receipts
 
-    -   JAVA: Answers predetermined questions by scanning files
+4. JAVA: Answers predetermined questions by scanning files
 
-    -   JAVA (Data Structures & Object Oriented Design): Maze solver using stack and queues, and DFS and BFS
+5. JAVA (Data Structures & Object Oriented Design): Maze solver using stack and queues, and DFS and BFS
 
-    -   C (Systems Programming & Software Tools): Custom modifiable dictionary using linked lists
+6. C (Systems Programming & Software Tools): Custom modifiable dictionary using linked lists
 
-    -   C (Systems Programming & Software Tools): Custom heap memory allocation, custom malloc, custom free
+7. C (Systems Programming & Software Tools): Custom heap memory allocation, custom malloc, custom free
 
-    -   C (Systems Programming & Software Tools): Developed a custom shell with processes and forks
+8. C (Systems Programming & Software Tools): Developed a custom shell with processes and forks
 
 ## Where to find me
 
@@ -56,3 +56,22 @@ You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)
 ### Thank you for checking this out :)
 
 > “Computers are good at following instructions, but not at reading your mind.”
+
+
+Link to top: [Link Text](#hi-im-sam-welcome-to-my-page)
+
+Link to README.md [README.md](README.md)
+
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links (Link to another webpage)
+- [x] Section links (Link to a header in the same .md file)
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
+- [x] Task lists
+- [x] Complete Web Page requirements
+- [] Internship :(
+- [] Job :(
+- [x] Homeless Shelter
