@@ -1,12 +1,13 @@
-'''java
+```
+java
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, world!");
     }
 }
-'''
+```
 
-#I'm Sam! Welcome to my page
+# I'm Sam! Welcome to my page
 
 ## Who am I?
 
