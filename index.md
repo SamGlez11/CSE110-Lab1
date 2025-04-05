@@ -11,7 +11,7 @@ public class HelloWorld {
 
 ## Who am I?
 
-I am an aspiring second-year Computer Science student at UC San Diego, passionate about applying my knowledge to solve real-world problems. As I study CS, I have developed a growing interest in **Machine Learning**, **Operating Systems**, teaching, and how we can reduce the **Digital Divide**.  I am eager to deepen my knowledge and contribute to innovative projects that intersect with these fields. I enjoy engaging with the CS community, sharing knowledge, teaching, and learning. I'm excited to continue growing as a student in order to soon become a proffesional in the the tech industry.
+I am an aspiring second-year Computer Science student at UC San Diego, passionate about applying my knowledge to solve real-world problems. As I study CS, I have developed a growing interest in **Machine Learning**, **Operating Systems**, teaching, and how we can reduce the **Digital Divide**.  I am eager to deepen my knowledge and contribute to innovative projects that intersect with these fields. I enjoy engaging with the CS community, sharing knowledge, teaching, and learning. I'm excited to continue growing as a student in order to soon become a professional in the tech industry.
 
 ![UCSD Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Seal_of_the_University_of_California%2C_San_Diego.svg/640px-Seal_of_the_University_of_California%2C_San_Diego.svg.png)
 
@@ -25,7 +25,7 @@ I am an aspiring second-year Computer Science student at UC San Diego, passionat
 
 I have been working on an Online Rock, Paper, Scissors game which currently works when clients are connected using a local server *(Work in progress: trying to make it so it is played remotely between different computers)*
 
-You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)**
+You can check it out here **_[Rock, Paper, Scissors]_**(https://github.com/SamGlez11/RockPaperScissors.git)**
 
 ## Smaller Projects
 
@@ -47,11 +47,11 @@ You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)
 
 ## Where to find me
 
-[LinkedIn] **(https://www.linkedin.com/in/samuel-gonzalez-a7a91a34a/)**
+- **[LinkedIn]**(https://www.linkedin.com/in/samuel-gonzalez-a7a91a34a/)
 
-[GitHub] **(https://github.com/SamGlez11)**
+- **[GitHub]**(https://github.com/SamGlez11)
 
-[Instagram] **(https://www.instagram.com/samuel._.gonzalezz?igsh=MzRlODBiNWFlZA==)**
+- **[Instagram]**(https://www.instagram.com/samuel._.gonzalezz?igsh=MzRlODBiNWFlZA==)
 
 ### Thank you for checking this out!
 ### Here's a CS quote as a reward :)
@@ -59,7 +59,7 @@ You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)
 > “Computers are good at following instructions, but not at reading your mind.”
 
 
-Link to top: [Link Text](#hi-im-sam-welcome-to-my-page)
+Link to top of page: [Click here](#hi-im-sam-welcome-to-my-page)
 
 Link to README.md: [README.md](README.md)
 
