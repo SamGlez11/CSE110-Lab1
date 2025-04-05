@@ -1,5 +1,4 @@
-```
-java
+```java
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, world!");
@@ -47,11 +46,11 @@ You can check it out here **_[Rock, Paper, Scissors]_**(https://github.com/SamGl
 
 ## Where to find me
 
-- **[LinkedIn]**(https://www.linkedin.com/in/samuel-gonzalez-a7a91a34a/)
+- [**LinkedIn**](https://www.linkedin.com/in/samuel-gonzalez-a7a91a34a/)
 
-- **[GitHub]**(https://github.com/SamGlez11)
+- [**GitHub**](https://github.com/SamGlez11)
 
-- **[Instagram]**(https://www.instagram.com/samuel._.gonzalezz?igsh=MzRlODBiNWFlZA==)
+- [**Instagram**](https://www.instagram.com/samuel._.gonzalezz?igsh=MzRlODBiNWFlZA==)
 
 ### Thank you for checking this out!
 ### Here's a CS quote as a reward :)
