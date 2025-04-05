@@ -47,11 +47,11 @@ You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)
 
 ## Where to find me
 
-[LinkedIn]**(https://www.linkedin.com/in/samuel-gonzalez-a7a91a34a/)**
+[LinkedIn] **(https://www.linkedin.com/in/samuel-gonzalez-a7a91a34a/)**
 
-[GitHub]**(https://github.com/SamGlez11)**
+[GitHub] **(https://github.com/SamGlez11)**
 
-[Instagram]**(https://www.instagram.com/samuel._.gonzalezz?igsh=MzRlODBiNWFlZA==)**
+[Instagram] **(https://www.instagram.com/samuel._.gonzalezz?igsh=MzRlODBiNWFlZA==)**
 
 ### Thank you for checking this out!
 ### Here's a CS quote as a reward :)
@@ -61,10 +61,9 @@ You can check it out here **(https://github.com/SamGlez11/RockPaperScissors.git)
 
 Link to top: [Link Text](#hi-im-sam-welcome-to-my-page)
 
-Link to README.md [README.md](README.md)
+Link to README.md: [README.md](README.md)
 
 - [x] Images
-- [ ] 
 - [x] Headings
 - [x] Styling text
 - [x] Quoting text
