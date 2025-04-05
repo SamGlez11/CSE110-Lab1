@@ -63,6 +63,8 @@ Link to top: [Link Text](#hi-im-sam-welcome-to-my-page)
 
 Link to README.md [README.md](README.md)
 
+- [x] Images
+- [ ] 
 - [x] Headings
 - [x] Styling text
 - [x] Quoting text
