@@ -1,8 +1,5 @@
 # CSE110-Lab1
+
 My favorite programming language is Java!
 
-Link to published web page: [index.md](index.md)
-
-Link to published web page: [index.md](https://SamGlez11.github.io/CSE110-Lab1/index)
-
-Link to published web page: [index.md](https://SamGlez11.github.io/CSE110-Lab1/)
+[Click here to view my published GitHub Pages site](https://SamGlez11.github.io/CSE110-Lab1/)
