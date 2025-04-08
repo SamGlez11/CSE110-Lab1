@@ -62,6 +62,8 @@ Link to top of page: [Click here](#hi-im-sam-welcome-to-my-page)
 
 Link to README.md: [README.md](README.md)
 
+Link to HI.md: [HI.md](./HI.html)
+
 - [x] Images
 - [x] Headings
 - [x] Styling text
