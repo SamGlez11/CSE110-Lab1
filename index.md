@@ -60,7 +60,7 @@ You can check it out here **_[Rock, Paper, Scissors]_**(https://github.com/SamGl
 
 Link to top of page: [Click here](#hi-im-sam-welcome-to-my-page)
 
-Link to README.md: [README.md](README.md)
+Link to README.md: [HI.md](./HI.html)
 
 - [x] Images
 - [x] Headings
